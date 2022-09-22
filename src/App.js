@@ -1,6 +1,6 @@
 
 import './App.css';
-import Form from './Components/Form';
+import Form from './Form.js';
 function App() {
   return (
     <div className="App">

@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import'./Form.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Facebook,Instagram,Email,Github} from'react-bootstrap-icons';
+import {Facebook,Instagram,Github} from'react-bootstrap-icons';
 function Form() {
     return(
       <div className="form">
